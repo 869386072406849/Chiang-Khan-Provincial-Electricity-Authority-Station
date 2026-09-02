@@ -1,4 +1,132 @@
 # https://biodieselproductionstation.wordpress.com/ipv6/
+
+# ข้อมูลสถานที่ผลิตอำเภอเชียงคาน
+<!-- wp:heading -->
+<h2 class="wp-block-heading">ข้อมูลโรงไฟฟ้า แบ่งตามภูมิภาค &gt; ภาคตะวันออกเฉียงเหนือ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul id="navmenu" class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www2.eppo.go.th/cdf/data_regional_north.html">ภาคเหนือ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www2.eppo.go.th/cdf/data_regional_northeast.html">ภาคตะวันออกเฉียงเหนือ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www2.eppo.go.th/cdf/data_regional_central.html">ภาคกลาง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www2.eppo.go.th/cdf/data_regional_east.html">ภาคใต้</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/Chaiyaphum/PhuKeawBio/x02PKB-1_general.html">โรงไฟฟ้า บริษัท ภูเขียว ไบโอ-เอ็นเนอร์ยี จำกัด</a>ชัยภูมิ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/Chaiyaphum/Chulaphon/x02CHL_general.html">โรงไฟฟ้าเขื่อนจุฬาภรณ์</a>ชัยภูมิ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/NakhonRatchasima/Lamtakong/x02LT_general.html">โรงไฟฟ้าเขื่อนลำตะคอง</a>นครราชสีมา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/NakhonRatchasima/KorachIndustry1/x02KN_general.html">โรงไฟฟ้า บริษัท อุตสาหกรรมโคราช จำกัด (1)</a>นครราชสีมา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/NakhonRatchasima/KorachIndustry1/x02KN-1_general.html">โรงไฟฟ้า บริษัท อุตสาหกรรมโคราช จำกัด (2)</a>นครราชสีมา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/NakhonRatchasima/Buayai/x02BY_general.html">โรงไฟฟ้า บริษัท บัวใหญ่ ไบโอ เพาเวอร์ จำกัด</a>นครราชสีมา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/NakhonRatchasima/Kornburi/x02KB_general.html">โรงไฟฟ้า บริษัท น้ำตาลครบุรี จำกัด</a>นครราชสีมา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/NakhonRatchasima/Ratchasima/x02RC_general.html">โรงไฟฟ้า บริษัท น้ำตาลราชสีมา จำกัด</a>นครราชสีมา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/BuriRam/SatuekBiomass/x02STB_general.html">โรงไฟฟ้า บริษัท สตึก ไบโอแมส จำกัด</a>บุรีรัมย์</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/BuriRam/SatuekBiomass/x02STB-1_general.html">โรงไฟฟ้า บริษัท แอ๊ดวานซ์ไบโอพาวเวอร์ จำกัด</a>บุรีรัมย์</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/BuriRam/BuriramSugar/x02BS_general.html">โรงไฟฟ้า บริษัท น้ำตาลบุรีรัมย์ จำกัด</a>บุรีรัมย์</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/Surin/MonJaraen/x02MJ_general.html">โรงไฟฟ้า บริษัท มุ่งเจริญกรีนเพาเวอร์ จำกัด</a>สุรินทร์</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/Surin/SurinElectric/x02SE_general.html">โรงไฟฟ้า บริษัท ไฟฟ้าสุรินทร์ จำกัด</a>สุรินทร์</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/Konkaen/Nampong/x02Nam_general.html">โรงไฟฟ้าน้ำพอง</a>ขอนแก่น</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/Konkaen/Ubonrat/x02ur_general.html">โรงไฟฟ้าเขื่อนอุบลรัตน์</a>ขอนแก่น</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/Konkaen/MitPhuViang/x02MPV_general.html">โรงไฟฟ้า บริษัท น้ำตาลมิตรภูเวียง จำกัด</a>ขอนแก่น</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/Konkaen/KnonKaenSugar/x02KKS_general.html">โรงไฟฟ้า บริษัท โรงไฟฟ้าน้ำตาลขอนแก่น จำกัด</a>ขอนแก่น</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/SakonNakhon/Nampoong/x02NP_general.html">โรงไฟฟ้าเขื่อนน้ำพุง</a>สกลนคร</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/Udon/Ruemudom/x02ru_general.html">โรงไฟฟ้า บริษัท โรงงานน้ำตาลทรายขาวเริ่มอุดม จำกัด</a>อุดรธานี</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/Kalasin/MitKalasin/x02MKL_general.html">โรงไฟฟ้า บริษัท น้ำตาลมิตรกาฬสินธุ์ จำกัด</a>กาฬสินธุ์</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/Kalasin/MitKalasin/x02MKL-1_general.html">โรงไฟฟ้า บริษัท น้ำตาลมิตรกาฬสินธุ์ จำกัด (VSPP)</a>กาฬสินธุ์</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/Mukdahan/Saharaung/x02SH_general.html">โรงไฟฟ้า บริษัท สหเรือง จำกัด</a>มุกดาหาร</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/RoiEt/RoietGreen/x02RG_general.html">โรงไฟฟ้า บริษัท ร้อยเอ็ด กรีน จำกัด</a>ร้อยเอ็ด</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/Ubon/Pakmoon/x02PAK_general.html">โรงไฟฟ้าเขื่อนปากมูล</a>อุบลราชธานี</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"pa"} -->
+<p class="pa"><a href="https://www2.eppo.go.th/cdf/Province/NorthEast/Ubon/Sirinthon/x03SIR_info.html">โรงไฟฟ้าเขื่อนสิรินธร</a>อุบลราชธานี</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading"></h1>
+<!-- /wp:heading -->
+
 สูตร Ft
 Ft ย่อมาจาก Fuel Adjustment Charge (at the given time)
 
