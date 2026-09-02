@@ -1495,3 +1495,174 @@ https://github.com/869386072406849
 <figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/loading-opacity-1.gif?w=777" alt="" class="wp-image-114"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
+
+# สถานที่ตั้งแหล่งกำเนิดไฟฟ้า
+<!-- wp:paragraph -->
+<p>ฐานข้อมูล:สถานีผลิตไฟฟ้าอำเภอเชียงคาน<br>ประเภท:แหล่งกำเนิดไฟฟ้า<br>บริษัท: <a href="https://en.wikipedia.org/wiki/Lalamove">ลาล่ามูฟ จำกัด มหาชน</a><br>ที่อยู่ : <a href="https://share.google/u3A4765OFOONTbiEH">8 201 ศรีโพนแท่น ตำบล เชียงคาน อำเภอ เชียงคาน เลย 42110</a><br><strong>ประเภทโรงไฟฟ้า</strong>:โรงไฟฟ้าพลังงานความร้อนร่วม/กังหันก๊าซที่ใช้น้ำมัน (Diesel/Liquid Fuel Power Plant)ลักษณะการทำงาน: ใช้เครื่องยนต์สันดาปภายใน (Internal Combustion Engine) หรือกังหันก๊าซที่เผาไหม้น้ำมัน (เช่น น้ำมันดีเซล หรือปรับมาใช้ไบโอดีเซลผสม) เพื่อขับเคลื่อนเครื่องกำเนิดไฟฟ้าการใช้งาน: ส่วนใหญ่เป็นขนาดเล็กหรือสำรองฉุกเฉิน ในพื้นที่ห่างไกล เกาะ หรือพื้นที่ที่ระบบสายส่งไฟฟ้าเข้าไม่ถึงในความเป็นจริง <strong class="rQesXe MPyX">"ไบโอดีเซล"</strong> เป็นเชื้อเพลิงเหลวที่ใช้กับเครื่องยนต์หรือรถยนต์ (ไม่ใช่ประเภทของโรงไฟฟ้าโดยตรง) แต่หากหมายถึง<mark class="MAeH" style="background-color:rgba(0, 0, 0, 0); color:#000000;">โรงไฟฟ้าที่ใช้ <strong class="rQesXe MPyX">น้ำมันดีเซล/ไบโอดีเซล</strong> หรือโรงไฟฟ้าจาก <strong class="rQesXe MPyX">ชีวมวล (Biomass)</strong></mark> ที่เกี่ยวข้อง มีประเภทหลักๆ </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>การทำงาน</strong>:<a href="https://en-wikipedia-org.translate.goog/wiki/Biodiesel?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=sge">เครื่องยนต์</a><br><strong>ประเภทเชื้อเพลิง</strong> :น้ำมันดีเซล/ไบโอดีเซล<br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><mark class="MAeH"><strong class="rQesXe MPyX">โรงไฟฟ้าไบโอดีเซลโดยทั่วไปไม่มีการสร้างขึ้นเพื่อผลิตและส่งจ่ายไฟฟ้าเชิงพาณิชย์โดยตรงเป็นหลัก</strong></mark> เนื่องจาก<strong class="rQesXe MPyX">ไบโอดีเซล (B100) จัดเป็นเชื้อเพลิงเหลวแปรรูปที่มีต้นทุนการผลิตสูง</strong> และมีจุดประสงค์หลักเพื่อนำไป<strong class="rQesXe MPyX">ผสมในน้ำมันดีเซลภาคขนส่ง (เช่น B7) และอุตสาหกรรมเครื่องจักรหนัก</strong> มากกว่าการนำมาเผาเพื่อผลิตไฟฟ้า [<a href="https://thekey.news/columnists/46306/">1</a>, <a href="http://dspace.nstru.ac.th:8080/dspace/bitstream/123456789/1631/4/Chapter2.pdf">2</a>, <a href="https://www.kasikornresearch.com/th/analysis/k-social-media/Pages/IAO142-BioDiesel-FB-2025-08-19.aspx">3</a>]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>อย่างไรก็ตาม ในระบบไฟฟ้ากำลังจะมีการใช้น้ำมันดีเซล (ซึ่งรวมถึงดีเซลสูตรที่มีการผสมไบโอดีเซลตามมาตรฐานภาครัฐ) ในแง่ของกำลังผลิตและกำลังส่งดังนี้ครับ: [<a href="https://thekey.news/columnists/46306/">1</a>]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. กำลังการผลิตไฟฟ้า (Capacity)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ในภาคการผลิตไฟฟ้า น้ำมันดีเซลจะถูกใช้ใน 2 รูปแบบหลัก:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"KsbFXc U6u95"} -->
+<ul class="wp-block-list KsbFXc U6u95"><!-- wp:list-item -->
+<li><strong class="rQesXe MPyX">โรงไฟฟ้าพลังความร้อนร่วม (Combined Cycle) รายใหญ่:</strong> โรงไฟฟ้าขนาดใหญ่เหล่านี้พึ่งพาก๊าซธรรมชาติเป็นหลัก แต่จะมีการ<strong class="rQesXe MPyX">ใช้น้ำมันดีเซลเป็นเชื้อเพลิงสำรอง</strong>ในกรณีที่ระบบท่อส่งก๊าซมีปัญหา เพื่อความมั่นคงทางพลังงาน กำลังผลิตตามสัญญารวมของโรงไฟฟ้ากลุ่มนี้ในไทยสูงถึงระดับหลายพันเมกะวัตต์ (MW) [<a href="https://www.egat.co.th/home/en/statistics-all-3rdparty/">1</a>, <a href="https://www.stkc.go.th/info/EnergyKnowledge">2</a>, <a href="https://justpow.co/article-egat-ipp-payment-2025/">3</a>]</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong class="rQesXe MPyX">โรงไฟฟ้าดีเซลชุมชน / พื้นที่ห่างไกล:</strong> ในพื้นที่ที่สายส่งไฟฟ้าหลักเข้าไปไม่ถึง เช่น บนเกาะหรือดอยสูง การไฟฟ้าส่วนภูมิภาค (กฟภ.) หรือโรงไฟฟ้าชุมชนจะใช้เครื่องกำเนิดไฟฟ้าดีเซล (Diesel Generator) ขนาดเล็ก ซึ่งมีกำลังผลิตรวมทั่วประเทศค่อนข้างน้อย (คิดเป็นสัดส่วนเพียงประมาณ <strong class="rQesXe MPyX">0.01% ของกำลังผลิตทั้งระบบ</strong> หรือไม่กี่เมกะวัตต์) [<a href="https://www.egat.co.th/home/statistics-all-latest/">1</a>, <a href="https://www.youtube.com/watch?v=Q4TPA6iAlHs">2</a>, <a href="https://www.ftc-service.com/blog-th/each-type-of-generator/">3</a>]</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><em class="zhvwWe">หมายเหตุ: หากเป็นโรงไฟฟ้าพลังงานหมุนเวียนจากภาคเกษตรกรรมโดยตรง ประเทศไทยจะนิยมสร้างเป็น <strong class="rQesXe MPyX">"โรงไฟฟ้าชีวมวล" (Biomass)</strong> ที่ใช้ชานอ้อย แกลบ หรือเศษไม้ และ <strong class="rQesXe MPyX">"โรงไฟฟ้าก๊าซชีวภาพ" (Biogas)</strong> จากน้ำเสียโรงงานแป้งมัน/ฟาร์มปศุสัตว์ ซึ่งมีต้นทุนต่ำกว่าและคุ้มค่าในการผลิตไฟฟ้ามากกว่า</em> [<a href="https://www.mitrphol.com/Energy-Business/business%2FBio-Power">1</a>, <a href="https://www.recthailand.com/articles/biomass-energy/">2</a>, <a href="https://www.ftc-service.com/blog-th/each-type-of-generator/">3</a>, <a href="https://www.ace-energy.co.th/th/our-business/projects/biomass-power-plant-projects">4</a>]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. กำลังการส่งไฟฟ้า (Transmission)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>การส่งกำลังไฟฟ้าจากโรงไฟฟ้าที่ใช้น้ำมันดีเซล (หรือระบบไฮบริดดีเซลสำรอง) มีกระบวนการส่งจ่ายผ่านโครงข่ายหลักดังนี้:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"KsbFXc U6u95"} -->
+<ul class="wp-block-list KsbFXc U6u95"><!-- wp:list-item -->
+<li><strong class="rQesXe MPyX">การแปลงแรงดันเพื่อส่งไกล (Step-up Substation):</strong> ไฟฟ้าที่ผลิตได้จากเครื่องกำเนิดไฟฟ้า (ปกติอยู่ที่ประมาณ 11 kV - 22 kV) จะถูกแปลงแรงดันให้สูงขึ้นผ่านหม้อแปลง เพื่อส่งเข้าสู่ระบบสายส่งไฟฟ้าแรงสูง (Transmission Line) ของการไฟฟ้าฝ่ายผลิตแห่งประเทศไทย (กฟผ.) [<a href="https://kb.psu.ac.th/bitstreams/fcad2318-ca36-4ec3-9854-3d5df32e0952/download">1</a>, <a href="https://www.mitrphol.com/Energy-Business/business%2FBio-Power">2</a>]</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong class="rQesXe MPyX">ระดับแรงดันสายส่ง:</strong> หากส่งจากโรงไฟฟ้าเอกชนรายใหญ่จะส่งผ่านสายส่งแรงสูงระดับ <strong class="rQesXe MPyX">115 kV, 230 kV จนถึง 500 kV</strong> เพื่อลดการสูญเสียกำลังไฟฟ้า (Power Loss) ในสาย [<a href="https://kb.psu.ac.th/bitstreams/fcad2318-ca36-4ec3-9854-3d5df32e0952/download">1</a>]</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong class="rQesXe MPyX">การจ่ายไฟสู่ผู้ใช้ (Distribution):</strong> เมื่อกำลังไฟฟ้าเดินทางถึงศูนย์กลางชุมชน (Load Center) สถานีไฟฟ้าย่อยจะลดแรงดันลงมาที่ระดับ <strong class="rQesXe MPyX">22 kV หรือ 33 kV</strong> เพื่อให้การไฟฟ้าส่วนภูมิภาค (กฟภ.) หรือการไฟฟ้านครหลวง (กฟน.) ส่งจ่ายผ่านเสาไฟฟ้าแรงต่ำเข้าสู่บ้านเรือนที่แรงดัน <strong class="rQesXe MPyX">220V</strong> ต่อไป [<a href="https://www.mitrphol.com/Energy-Business/business%2FBio-Power">1</a>, <a href="https://kb.psu.ac.th/bitstreams/fcad2318-ca36-4ec3-9854-3d5df32e0952/download">2</a>]</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>หากคุณกำลังศึกษาโครงการเฉพาะ หรือต้องการข้อมูลของ<strong class="rQesXe MPyX">โรงงานผลิตน้ำมันไบโอดีเซล</strong> (ที่คำนวณกำลังการผลิตเป็นลิตรต่อวัน) หรือสนใจ<strong class="rQesXe MPyX">โรงไฟฟ้าชีวมวล</strong>แทน สามารถแจ้งข้อมูลเพิ่มเติมเพื่อที่ผมจะได้เจาะลึกรายละเอียดให้ตรงจุดยิ่งขึ้นครับ [<a href="https://investor.pce-th.com/th/newsroom/press-releases/188183/pce-%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%B2%E0%B8%A5%E0%B9%8C%E0%B8%A1-%E0%B9%80%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B9%84%E0%B8%9A%E0%B9%82%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B8%8B%E0%B8%A5%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87-%E0%B8%82%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B9%82%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%90-b10-b20-%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B8%99%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A2%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%A2%E0%B8%B7%E0%B8%99">1</a>, <a href="http://dspace.nstru.ac.th:8080/dspace/bitstream/123456789/1631/4/Chapter2.pdf">2</a>, <a href="https://www.recthailand.com/articles/biomass-energy/">3</a>, <a href="https://www.mitrphol.com/Energy-Business/business%2FBio-Power">4</a>]<br>สถานะการรับซื้อไฟฟ้า (วัน/เดือน/ปี)<br>วันที่ยื่นคำขอ<br>วันที่พิจารณาคำขอ 05/04/2569<br>วันที่ลงนามสัญญา 05/04/2569<br>เลขที่สัญญา<br>SCOD ตามสัญญา 09/04/2572<br>COD แล้ว</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>การไฟฟ้าที่จำหน่ายไฟฟ้าให้ด้วยอัตตรา:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"fw-600"} -->
+<h3 class="wp-block-heading fw-600">ข้อมูลอัตราค่าบริการไฟฟ้า</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">นโยบายและกำกับ</h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5,"className":"sub-section-title"} -->
+<h5 class="wp-block-heading sub-section-title">นโยบายการกำหนดโครงสร้างค่าไฟฟ้า</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>นโยบายการกำหนดโครงสร้างค่าไฟฟ้า</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5,"className":"sub-section-title"} -->
+<h5 class="wp-block-heading sub-section-title">หลักเกณฑ์การกำหนดโครงสร้างอัตราค่าไฟฟ้า</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ประกาศ กกพ. เรื่อง กระบวนการ ขั้นตอนการใช้สูตรการปรับอัตราค่าไฟฟ้าโดยอัตโนมัติ พ.ศ. 2565</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ประกาศ กกพ. เรื่อง กรอบหลักเกณฑ์การกำหนดอัตราค่าไฟฟ้า (Electricity Tariff Regulatory Framework) พ.ศ. 2564</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ประกาศ กกพ. เรื่อง กระบวนการ ขั้นตอนการใช้สูตรการปรับอัตราค่าไฟฟ้าโดยอัตโนมัติ พ.ศ. 2562</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5,"className":"sub-section-title"} -->
+<h5 class="wp-block-heading sub-section-title">โครงสร้างอัตราค่าไฟฟ้า</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>โครงสร้างอัตราค่าไฟฟ้า</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5,"className":"sub-section-title"} -->
+<h5 class="wp-block-heading sub-section-title">สรุปมาตรการบรรเทาผลกระทบค่าครองชีพ</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>สรุปมาตรการบรรเทาผลกระทบค่าครองชีพ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>มี12แห่ง ดังนี้</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><br>1<a href="https://gcontact.gcc.go.th/index.php?option=com_content&view=article&id=27153%3A2013-06-06-07-19-27&catid=1161%3A2010-03-04-10-02-17&Itemid=2">การไฟฟ้าส่วนภูมิภาคอำเภอเอราวัณ</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&view=article&id=27152%3A2013-06-06-07-16-34&catid=1161%3A2010-03-04-10-02-17&Itemid=2">การไฟฟ้าส่วนภูมิภาคอำเภอหนองหิน</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&view=article&id=478%3A2010-03-10-06-00-20&catid=1161%3A2010-03-04-10-02-17&Itemid=2">การไฟฟ้าส่วนภูมิภาคอำเภอวังสะพุง</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&view=article&id=477%3A2010-03-10-05-58-46&catid=1161%3A2010-03-04-10-02-17&Itemid=2">การไฟฟ้าส่วนภูมิภาคอำเภอภูหลวง</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&view=article&id=476%3A2010-03-10-05-57-28&catid=1161%3A2010-03-04-10-02-17&Itemid=2">การไฟฟ้าส่วนภูมิภาคอำเภอภูกระดึง</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&view=article&id=475%3A2010-03-10-05-12-58&catid=1161%3A2010-03-04-10-02-17&Itemid=2">การไฟฟ้าส่วนภูมิภาคอำเภอภูเรือ</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&view=article&id=474%3A2010-03-10-05-10-57&catid=1161%3A2010-03-04-10-02-17&Itemid=2">การไฟฟ้าส่วนภูมิภาคอำเภอนาด้วง</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&view=article&id=473%3A2010-03-10-05-09-29&catid=1161%3A2010-03-04-10-02-17&Itemid=2">การไฟฟ้าส่วนภูมิภาคอำเภอนาแห้ว</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&view=article&id=472%3A2010-03-10-05-06-21&catid=1161%3A2010-03-04-10-02-17&Itemid=2">การไฟฟ้าส่วนภูมิภาคอำเภอท่าลี่</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&view=article&id=471%3A2010-03-10-05-04-50&catid=1161%3A2010-03-04-10-02-17&Itemid=2">การไฟฟ้าส่วนภูมิภาคอำเภอด่านซ้าย</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&view=article&id=470%3A2010-03-10-05-01-44&catid=1161%3A2010-03-04-10-02-17&Itemid=2">การไฟฟ้าส่วนภูมิภาคอำเภอเชียงคาน</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://gcontact.gcc.go.th/index.php?option=com_content&amp;view=article&amp;id=469%3A2010-03-10-04-58-10&amp;catid=1161%3A2010-03-04-10-02-17&amp;Itemid=2">การไฟฟ้าส่วนภูมิภาคจังหวัดเลย</a></p>
+<!-- /wp:paragraph -->
+
+
