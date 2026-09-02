@@ -1,5 +1,5 @@
 # https://biodieselproductionstation.wordpress.com/ipv6/
-
+# https://x.com/200144c84434d21/status/2095252480481497429?s=20
 # ข้อมูลสถานที่ผลิตอำเภอเชียงคาน
 <!-- wp:heading -->
 <h2 class="wp-block-heading">ข้อมูลโรงไฟฟ้า แบ่งตามภูมิภาค &gt; ภาคตะวันออกเฉียงเหนือ</h2>
