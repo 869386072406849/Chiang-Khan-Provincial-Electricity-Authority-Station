@@ -1,3 +1,248 @@
+<!-- wp:image {"width":"200px","height":"auto","linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter is-resized"><a href="https://gdcatalog.go.th/organization/e6b49c61-bd2d-41d0-9bf6-828998d79534"><img src="https://gdcatalog.go.th/assets/images/organization_logo/fifha.png" alt="e6b49c61-bd2d-41d0-9bf6-828998d79534" style="width:200px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ไม่มีคำอธิบายสำหรับหน่วยงานนี้</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>ผู้ติดตาม0ชุดข้อมูล15</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">&nbsp;หน่วยงาน</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?organization=e6b49c61-bd2d-41d0-9bf6-828998d79534">การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย <strong>15</strong></a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">&nbsp;กลุ่ม</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?groups=62c1d769-1e03-41f1-a7d8-da6f5750f426">สาขาพลังงาน <strong>11</strong></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?groups=65ba8e3d-7155-419b-8da2-7ab2bc6693cc">แผนปฏิบัติงาน/การดำเนินงาน/โครงการ <strong>4</strong></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?groups=8a4e2342-f9c8-4b58-bdd9-dc93b776dcf8">คู่มือ/รายงาน/บทความ <strong>2</strong></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?groups=29c4dfa1-bc8a-4122-8788-af9b5b7eafac">สาขาทรัพยากรธรรมชาติและสิ่งแวดล้อม <strong>1</strong></a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">&nbsp;แท็คโดยหน่วยงาน</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?tags=%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%9F%E0%B8%9F%E0%B9%89%E0%B8%B2">พลังงานไฟฟ้า <strong>4</strong></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?tags=%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%87">การใช้เชื้อเพลิง <strong>2</strong></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?tags=Competency+Certification+Center">Competency Certification Center <strong>1</strong></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?tags=Corporate+Social+Responsibility">Corporate Social Responsibility <strong>1</strong></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?tags=CSR">CSR <strong>1</strong></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?tags=Fiber+Optics">Fiber Optics <strong>1</strong></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?tags=Fly+ash">Fly ash <strong>1</strong></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?tags=O%26M">O&amp;M <strong>1</strong></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?tags=%E0%B8%81%E0%B8%9F%E0%B8%9C.">กฟผ. <strong>1</strong></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?tags=%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%9F%E0%B8%9F%E0%B9%89%E0%B8%B2">การจำหน่ายพลังงานไฟฟ้า <strong>1</strong></a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?_tags_limit=0">แสดง แท็ค เพิ่มเติม</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">&nbsp;รูปแบบ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?res_format=CSV">CSV <strong>15</strong></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?res_format=RDF">RDF <strong>15</strong></a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">&nbsp;สัญญาอนุญาต</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?license_id=Creative+Commons+Attributions">Creative Commons Attributions <strong>8</strong></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?license_id=License+not+specified">License not specified <strong>7</strong></a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">&nbsp;แท็คมาตรฐานบัญชีข้อมูลภาครัฐ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ไม่พบ แท็คมาตรฐานบัญชีข้อมูลภาครัฐ ที่ตรงกับที่ค้นหา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">&nbsp;ประเภทชุดข้อมูล</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?data_type=%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%AA%E0%B8%96%E0%B8%B4%E0%B8%95%E0%B8%B4">ข้อมูลสถิติ <strong>10</strong></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?data_type=%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%99">ข้อมูลระเบียน <strong>5</strong></a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">&nbsp;หมวดหมู่ตามธรรมาภิบาลข้อมูล</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/b0f64863-032b-46ba-86b5-2ae68aa7676f?data_category=%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B8%B0">ข้อมูลสาธารณะ <strong>15</strong></a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/e6b49c61-bd2d-41d0-9bf6-828998d79534"> ชุดข้อมูล</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/activity/e6b49c61-bd2d-41d0-9bf6-828998d79534/0"> ความเคลื่อนไหว</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/organization/about/e6b49c61-bd2d-41d0-9bf6-828998d79534"> เกี่ยวกับ</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>เรียงโดย&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;ความสัมพันธ์ตามคำค้น&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;เรียงชื่อตามลำดับตัวอักษร (ก-ฮ)&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;เรียงชื่อตามลำดับตัวอักษร (ฮ-ก)&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;ถูกแก้ไขครั้งสุดท้าย&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;ได้รับความสนใจ&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">พบ 15 ชุดข้อมูล</h1>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/dataset/gdpublish-other_00000001">ปัจจัยการวิเคราะห์ด้านพลังงานไฟฟ้า</a>  178 total views  3 recent viewsการวิเคราะห์ด้านพลังงานไฟฟ้า ประกอบไปด้วยข้อมูล ดังนี้ - ข้อมูลการผลิตและซื้อพลังงานไฟฟ้า - ข้อมูลการใช้เชื้อเพลิงของโรงงานไฟฟ้า กฟผ. - ข้อมูลจำหน่ายพลังงานไฟฟ้า<ul><li><a href="https://gdcatalog.go.th/dataset/gdpublish-other_00000001">CSV</a> </li><li><a href="https://gdcatalog.go.th/dataset/gdpublish-other_00000001">RDF</a></li></ul> การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย  11 สิงหาคม 2569</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000006">แผนการใช้งบประมาณประจำปี</a>  318 total views  8 recent viewsแผนการใช้งบประมาณประจำปี<ul><li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000006">CSV</a> </li><li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000006">RDF</a></li></ul> การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย  11 สิงหาคม 2569</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/dataset/gdpublish-sum_of_sale_energy">การจำหน่ายพลังงานไฟฟ้า</a>  425 total views  11 recent viewsการจำหน่ายพลังงานไฟฟ้า ของ กฟผ. สรุปรายปี จำแนกตามลูกค้า หน่วย : ล้านกิโลวัตต์ชั่วโมง (Mkwh)<ul><li><a href="https://gdcatalog.go.th/dataset/gdpublish-sum_of_sale_energy">CSV</a> </li><li><a href="https://gdcatalog.go.th/dataset/gdpublish-sum_of_sale_energy">RDF</a></li></ul> การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย  11 สิงหาคม 2569</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/dataset/gdpublish-dataset_02">ความต้องการพลังไฟฟ้าสูงสุด</a>  473 total views  12 recent viewsความต้องการพลังไฟฟ้าสูงสุดของประเทศไทย จำแนกรายปี<ul><li><a href="https://gdcatalog.go.th/dataset/gdpublish-dataset_02">CSV</a> </li><li><a href="https://gdcatalog.go.th/dataset/gdpublish-dataset_02">RDF</a></li></ul> การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย  11 สิงหาคม 2569</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/dataset/gdpublish-volume_water_reservoir">ปริมาณน้ำเข้าอ่างเก็บน้ำ กฟผ.</a>  682 total views  7 recent views ปริมาณน้ำเข้าอ่างเก็บน้ำ (inflow) กฟผ. สรุปรายปี หน่วย : ล้านลูกบาศก์เมตร<ul><li><a href="https://gdcatalog.go.th/dataset/gdpublish-volume_water_reservoir">CSV</a> </li><li><a href="https://gdcatalog.go.th/dataset/gdpublish-volume_water_reservoir">RDF</a></li></ul> การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย  11 สิงหาคม 2569</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/dataset/gdpublish-dataset_04">การใช้เชื้อเพลิงของโรงไฟฟ้า กฟผ.</a>  785 total views  10 recent viewsการใช้เชื้อเพลิงของโรงไฟฟ้า กฟผ. น้ำมันเตา (ล้านลิตร) น้ำมันดีเซล (ล้านลิตร) ลิกไนต์ (ล้านตัน) ก๊าซธรรมชาติ (ล้าน ลบ.ฟุต)<ul><li><a href="https://gdcatalog.go.th/dataset/gdpublish-dataset_04">CSV</a> </li><li><a href="https://gdcatalog.go.th/dataset/gdpublish-dataset_04">RDF</a></li></ul> การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย  11 สิงหาคม 2569</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/dataset/gdpublish-dataset_03">การผลิตและซื้อพลังงานไฟฟ้า</a>  331 total views  9 recent viewsชุดข้อมูลการผลิตและซื้อพลังงานไฟฟ้าแยกตามประเภทโรงไฟฟ้า รายปี หน่วย : ล้านกิโลวัตต์ชั่วโมง (GWh) , ชุดข้อมูลปริมาณการผลิตไฟฟ้าสุทธิที่จ่ายเข้าระบบไฟฟ้า<ul><li><a href="https://gdcatalog.go.th/dataset/gdpublish-dataset_03">CSV</a> </li><li><a href="https://gdcatalog.go.th/dataset/gdpublish-dataset_03">RDF</a></li></ul> การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย  11 สิงหาคม 2569</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/dataset/gdpublish-dataset_05">ความยาวสายส่งไฟฟ้า</a>  504 total views  10 recent viewsความยาวสายส่งไฟฟ้า ของระบบส่ง กฟผ. หน่วย : วงจร – กิโลเมตร<ul><li><a href="https://gdcatalog.go.th/dataset/gdpublish-dataset_05">CSV</a> </li><li><a href="https://gdcatalog.go.th/dataset/gdpublish-dataset_05">RDF</a></li></ul> การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย  11 สิงหาคม 2569</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/dataset/gdpublish-dataset_01">กำลังผลิตในระบบไฟฟ้า</a>  451 total views  13 recent viewsข้อมูลกำลังผลิตตามสัญญาของ กฟผ. รายโรงไฟฟ้า หน่วย : เมกะวัตต์ (MW)<ul><li><a href="https://gdcatalog.go.th/dataset/gdpublish-dataset_01">CSV</a> </li><li><a href="https://gdcatalog.go.th/dataset/gdpublish-dataset_01">RDF</a></li></ul> การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย  11 สิงหาคม 2569</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000001">รายชื่อประเภทงานธุรกิจการให้บริการ</a>  514 total views  5 recent viewsการไฟฟ้าฝ่ายผลิตแห่งประเทศไทย (กฟผ.) ได้เป็นส่วนหนึ่งที่สำคัญในการขับเคลื่อนเศรษฐกิจ สังคม และความเจริญทั้งในระดับประเทศและในระดับภูมิภาคซึ่งนอกจากภารกิจหลักในด้านการผลิตไฟฟ้า...<ul><li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000001">CSV</a> </li><li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000001">RDF</a></li></ul> การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย  11 สิงหาคม 2569</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000002">รายงานการประเมินผลกระทบสิ่งแวดล้อม</a>  74 total views  2 recent viewsรายงานการประเมินผลกระทบสิ่งแวดล้อม (Environmental Impact Assessment : EIA) และ รายงานการประเมินผลกระทบสิ่งแวดล้อม สำหรับโครงการ...<ul><li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000002">CSV</a> </li><li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000002">RDF</a></li></ul> การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย  11 สิงหาคม 2569</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000008">ชุดข้อมูลโครงการเพื่อสังคม</a>  181 total views  3 recent viewsโครงการเพื่อสังคมของ กฟผ. ประกอบไปด้วยโครงการด้านต่างๆ ดังนี้ 1. โครงการด้านสิ่งแวดล้อม 2. โครงการด้านสังคม 3. โครงการด้านกีฬา 4. โครงการด้านการใช้พลังงาน<ul><li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000008">CSV</a> </li><li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000008">RDF</a></li></ul> การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย  11 สิงหาคม 2569</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000005">รายงานงบการเงิน</a>  399 total views  11 recent views งบการเงินรวมและงบการเงินเฉพาะกิจการของ กฟผ. รายปีที่ผ่านการสอบทาน/ตรวจสอบจากผู้สอบบัญชี<ul><li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000005">CSV</a> </li><li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000005">RDF</a></li></ul> การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย  11 สิงหาคม 2569</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000007">โครงการฉลากประหยัดไฟฟ้าเบอร์5</a>  488 total views  11 recent views โครงการฉลากประหยัดไฟฟ้าเบอร์ 5 มุ่งรณรงค์ส่งเสริมให้เกิดการใช้พลังงานไฟฟ้าอย่างรู้คุณค่า และมีประสิทธิภาพ - เพื่อรณรงค์ให้ผู้ผลิต/ผู้นำเข้า...<ul><li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000007">CSV</a> </li><li><a href="https://gdcatalog.go.th/dataset/gdpublish-o_00000007">RDF</a></li></ul> การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย  11 สิงหาคม 2569</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://gdcatalog.go.th/dataset/gdpublish-s_00000008">ปริมาณน้ำที่กักเก็บและใช้งาน</a>  295 total views  4 recent viewsรายงานสภาพน้ำและการระบายน้ำ<ul><li><a href="https://gdcatalog.go.th/dataset/gdpublish-s_00000008">CSV</a> </li><li><a href="https://gdcatalog.go.th/dataset/gdpublish-s_00000008">RDF</a></li></ul> การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย  11 สิงหาคม 2569</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 # [ธุรกิจ](https://en.wikipedia.org/wiki/Lalamove)
 # [ผู้กำกับและภาคส่วน](https://soloist.ai/chiangkhan#services-1)
 # https://infocenter.oic.go.th/PEAสาขาอำเภอ เชียงคาน/indexm7.php
