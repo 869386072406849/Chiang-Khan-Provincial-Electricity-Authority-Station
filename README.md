@@ -247,9 +247,7 @@
 # [ผู้กำกับและภาคส่วน](https://soloist.ai/chiangkhan#services-1)
 # https://infocenter.oic.go.th/PEAสาขาอำเภอ เชียงคาน/indexm7.php
 
-<!-- wp:image {"align":"center"} -->
-<figure class="wp-block-image aligncenter"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/sbc2294e56b229e61/image/i22853c6fcbdede45/version/1788224937/image.png" alt="wikimedia-pea"/></figure>
-<!-- /wp:image -->
+
 
 <!-- wp:paragraph -->
 <p><a href="https://wikimedia-pea.jimdofree.com/"></a></p>
