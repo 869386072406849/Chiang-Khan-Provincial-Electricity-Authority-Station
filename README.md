@@ -921,3 +921,183 @@ https://github.com/869386072406849
 <!-- /wp:paragraph -->
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3798.638509653171!2d101.673712!3d17.8086785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3126c990b538516d%3A0x3381c699d19d824e!2z4LiB4Liy4Lij4LmE4Lif4Lif4LmJ4Liy4Liq4LmI4Lin4LiZ4Lig4Li54Lih4Li04Lig4Liy4LiE4Liq4LiW4Liy4LiZ4Li14LmE4Lif4Lif4LmJ4Liy4LmA4LiK4Li14Lii4LiH4LiE4Liy4LiZ!5e0!3m2!1sth!2sth!4v1788349981090!5m2!1sth!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+<!-- wp:image {"id":72,"sizeSlug":"large","linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><a href="https://support.google.com/business/answer/7107242?hl=th&amp;dark=0&amp;visit_id=639237942818026517-1587802123&amp;p=search_verification_required&amp;rd=1"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/it-portal-stat-2567-1024x6578630977947820038397-1.jpg?w=1024" alt="" class="wp-image-72"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":73,"sizeSlug":"large","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/images281296768555101896960291.jpg?w=576" alt="" class="wp-image-73"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:gallery {"linkTo":"none"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":78,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/png-clipart-pie-chart-world-language-english-others-miscellaneous-angle1703184395202862939.png?w=900" alt="" class="wp-image-78"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":75,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/images-10573275703068126055.png?w=642" alt="" class="wp-image-75"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":74,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/images-92940871478567269979.png?w=294" alt="" class="wp-image-74"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":76,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/images-22097089344727083531.jpeg?w=282" alt="" class="wp-image-76"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":77,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/images-87204269150933904644.png?w=280" alt="" class="wp-image-77"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":79,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/images-74759803718972047712.png?w=491" alt="" class="wp-image-79"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":80,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/images-61036144727369080750.png?w=537" alt="" class="wp-image-80"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":81,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/images-56125080061002479286.png?w=491" alt="" class="wp-image-81"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":82,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/images-41832747066473940703.png?w=235" alt="" class="wp-image-82"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":83,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/images-31072787048035674879.png?w=545" alt="" class="wp-image-83"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":84,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/graph12.gif?w=602" alt="" class="wp-image-84"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":85,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/graph1.gif?w=491" alt="" class="wp-image-85"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:gallery {"linkTo":"none"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":90} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/cboe_volatlity_index2c_vix6600186449899615005.jpg?w=1024" alt="" class="wp-image-90"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":89} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/set_index8547113897332469982.png?w=1024" alt="" class="wp-image-89"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":86} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/2011guides281294170373648019516849.jpg?w=960" alt="" class="wp-image-86"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":88} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/masiigrowth2424174621678010850.png?w=960" alt="" class="wp-image-88"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":87} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/youths27_support_for_safe_and_legal_abortion_28varkey_2016294922252285704691326.jpg?w=758" alt="" class="wp-image-87"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":91} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/wikiviewstats-screenshot-comparison2643980512283577720.png?w=500" alt="" class="wp-image-91"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":92} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/wikiviewstats-screenshot-018326691613410037077.png?w=500" alt="" class="wp-image-92"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":93} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/statistik_auskunft_2b_fragen-zur-wikipedia_2b_cafc3a9_282008-01-01_2011-02-12298045579850297465477.jpg?w=500" alt="" class="wp-image-93"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":95} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/wiki_trends_-_2014-06-261481489376001887057.png?w=500" alt="" class="wp-image-95"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":94} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/wp_de_hauptseite_0804283169393371525082568.jpg?w=500" alt="" class="wp-image-94"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":96} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/artwork-01_01748496739864258532.png?w=750" alt="" class="wp-image-96"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":97} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/images281298868125486190049529.jpg?w=499" alt="" class="wp-image-97"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":98} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/e28094pngtreee28094graphvectoricon_3757870977212838638173718.jpg?w=1024" alt="" class="wp-image-98"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":99} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/2011guides7378622877386963859.png?w=1024" alt="" class="wp-image-99"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":100} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/images-15074517234110553256.png?w=490" alt="" class="wp-image-100"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":101} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/images4541216883404945117.png?w=300" alt="" class="wp-image-101"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":102} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/nykbcbd7xunvfiqm7mm-o4404189750842233115.png?w=720" alt="" class="wp-image-102"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":103} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/1280px-websitesbylanguagepiechart7655503871587615495.png?w=1024" alt="" class="wp-image-103"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":104} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/internet_users_per_100_inhabitants_itu2630824544732712268.png?w=960" alt="" class="wp-image-104"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":105} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/internet_users_for_100_people_by_gdp_per_capita1366157866664423598.png?w=500" alt="" class="wp-image-105"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":106} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/dipole_receiving_antenna_animation_6_800x394x150ms.gif?w=500" alt="" class="wp-image-106"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":107} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/thumbnail-dark-1181738093069328982.jpg?w=600" alt="" class="wp-image-107"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":109} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/thumbnail-dark-23293330632086230168.jpg?w=600" alt="" class="wp-image-109"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":110} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/thumbnail-dark-31839902254328568037.jpg?w=600" alt="" class="wp-image-110"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":108} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/thumbnail-dark3013904368301972750.jpg?w=600" alt="" class="wp-image-108"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":111} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/thumbnail-dark-55509339597144859993.jpg?w=600" alt="" class="wp-image-111"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":112} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/thumbnail-dark-42923309213836687910.jpg?w=600" alt="" class="wp-image-112"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":113} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/set_index4876308901685240848.png?w=500" alt="" class="wp-image-113"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":115} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/unnamed-1-1.gif?w=1024" alt="" class="wp-image-115"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":114} -->
+<figure class="wp-block-image"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/08/loading-opacity-1.gif?w=777" alt="" class="wp-image-114"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
